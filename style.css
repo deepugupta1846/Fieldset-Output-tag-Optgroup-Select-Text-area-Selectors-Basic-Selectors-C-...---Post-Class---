@@ -36,17 +36,16 @@ body{
 .name{
     font-size: 1.2rem;
     font-weight: 700;
-    text-transform: capitalize;
     text-align: center;
-    padding: 0.8rem;
+    text-transform: uppercase;
     letter-spacing: 0.02px;
+    padding: 0.8rem;
     color: white;
 }
 .designation{
     font-size: 1rem;
-    text-transform: capitalize;
     text-align: center;
-    padding-bottom: 0.5rem;
+    text-transform: uppercase;
     color: #f7f7f7;
 }
 .description{
@@ -69,7 +68,7 @@ a{
 .skills{
     font-size: 0.75rem;
     text-align: center;
-    text-transform: capitalize;
+    text-transform: uppercase;
     padding: 1rem 0.5rem;
     color: #f7f7f7;
 }
