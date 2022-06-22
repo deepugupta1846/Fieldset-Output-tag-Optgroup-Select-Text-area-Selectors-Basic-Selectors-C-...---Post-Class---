@@ -50,7 +50,7 @@ body{
 }
 .description{
     font-size: 0.75rem;
-    text-transform: capitalize;
+    text-transform: uppercase;
     text-align: center;
     padding: 1rem;
     color: #f7f7f7;
@@ -90,7 +90,7 @@ background-color: #f7f7f7;
 
 }
 .right-title{
-    text-transform: capitalize;
+    text-transform: uppercase;
     font-size: 1.2rem;
     font-weight: 700;
     padding: 0.5rem;
